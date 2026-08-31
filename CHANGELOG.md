@@ -11,3 +11,8 @@ This changelog records meaningful repository-level additions, governance changes
 - Defined component-scoped semantic-style versioning and annotated tag syntax: `script/<script-slug>/vX.Y.Z`.
 - Defined PowerShell compatibility, encoding, line-ending, naming, backlog, and release-governance defaults.
 - Adopted the MIT License.
+- Added deferred follow-up work to review optional GitHub repository features and possible branch protection or rulesets.
+
+### Changed
+
+- Finalized and documented GitHub About metadata and post-push repository verification.
