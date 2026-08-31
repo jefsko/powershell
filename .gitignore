@@ -1,0 +1,22 @@
+# Editor and IDE artifacts
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Common local working artifacts
+*.bak
+*.orig
+*.tmp
+*.log
+
+# Common test/output artifacts
+TestResults/
+coverage/
